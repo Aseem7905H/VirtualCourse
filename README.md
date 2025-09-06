@@ -35,10 +35,12 @@ A full-stack web application built with the **MERN stack** (MongoDB, Express.js,
    git clone https://github.com/Aseem7905H/VirtualCourse.git
    cd VirtualCourse
 2. **Setup backend**
-cd backend
-npm install
-npm run dev
+   ```bash
+   cd backend
+   npm install
+   npm run dev
 3. **Setup frontend**
-cd frontend
-npm install
-npm run dev
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
